@@ -27,10 +27,8 @@ SQL_Project.pdf)
 - [Python Analysis – Customer Churn](link-to-repo)  
   *Jupyter notebook analyzing churn data with pandas and visualization libraries.*
 
-- [Sales Dashboard – Power BI](![Nova Retail Assignment (1)](![Nova Retail Assignment (1)](https://github.com/user-attachments/assets/fc16aeae-4d84-4c84-9156-e05c3a9d67b1)
+- [Sales Dashboard – Power BI](![Nova Retail Assignment (1)](![Nova Retail Assignment (1)]([Nova Retail Assignment (1).JSON](https://github.com/user-attachments/files/31025710/Nova.Retail.Assignment.1.JSON))
 
-
-)  
   *Interactive dashboard showing sales trends, KPIs, and insights.*
 
 - [Case Studies – Hypothesis Testing](link-to-repo)  

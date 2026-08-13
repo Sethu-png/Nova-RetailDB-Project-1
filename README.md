@@ -1,3 +1,4 @@
+[Siphosethu_SQL_Project.docx](https://github.com/user-attachments/files/31022359/Siphosethu_SQL_Project.docx)
 # Nova-RetailDB-Project-1
 Nova retail group is a growing  company operating across multiple regions in South Africa. The company sales consumer products through both physical stores and an online platform. So the management needs my help as a junior data analyst to analyze their data to make better business decisions
 <img width="1536" height="1024" alt="Copilot_20260615_133155" src="https://github.com/user-attachments/assets/67885578-1ebd-4c0a-959c-2f9fc3d23dfa" />
@@ -19,7 +20,8 @@ This repository serves as a central hub for my projects, showcasing my ability t
 ---
 
 ## 📂 Featured Projects
-- [Nova RetailDB Project – SQL Analysis](https://siphosethu_SQL_Project.pdf)  
+- [Nova RetailDB Project – SQL Analysis](https://siphosethu[Siphosethu_SQL_Project.docx](https://github.com/user-attachments/files/31022391/Siphosethu_SQL_Project.docx)
+SQL_Project.pdf)  
   *SQL queries for revenue, profit margin, and customer insights. Includes professional documentation.*
 
 - [Python Analysis – Customer Churn](link-to-repo)  

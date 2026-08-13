@@ -19,7 +19,7 @@ This repository serves as a central hub for my projects, showcasing my ability t
 ---
 
 ## 📂 Featured Projects
-- [Nova RetailDB Project – SQL Analysis](https://siphosethu SQL Project.pdf)  
+- [Nova RetailDB Project – SQL Analysis](https://siphosethu_SQL_Project.pdf)  
   *SQL queries for revenue, profit margin, and customer insights. Includes professional documentation.*
 
 - [Python Analysis – Customer Churn](link-to-repo)  
